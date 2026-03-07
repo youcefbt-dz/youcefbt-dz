@@ -18,6 +18,7 @@
 ## 👨‍💼 About Me
 
 | | |
+|---|---|
 |  **Name** | Youcef Boutemedjet |
 |  **Location** | Algeria |
 |  **Education** | BSc Finance — Year 3 |
