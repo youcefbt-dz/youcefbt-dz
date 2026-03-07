@@ -1,16 +1,108 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**youcefbt-dz/youcefbt-dz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+██╗   ██╗ ██████╗ ██╗   ██╗ ██████╗███████╗███████╗
+╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██╔════╝██╔════╝
+ ╚████╔╝ ██║   ██║██║   ██║██║     █████╗  █████╗  
+  ╚██╔╝  ██║   ██║██║   ██║██║     ██╔══╝  ██╔══╝  
+   ██║   ╚██████╔╝╚██████╔╝╚██████╗███████╗██║     
+   ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝╚══════╝╚═╝     
+```
 
-Here are some ideas to get you started:
+# YOUCEF BOUTEMEDJET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Finance Student → FinTech Explorer**
+
+*Bridging the gap between financial theory and data-driven technology*
+
+[![Email](https://img.shields.io/badge/📧_Contact_Me-0a0a0a?style=for-the-badge)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-youcefbt--dz-181717?style=for-the-badge&logo=github)](https://github.com/youcefbt-dz)
+
+</div>
+
+---
+
+## 👨‍💼 About Me
+
+```python
+youcef = {
+    "name"      : "Youcef Boutemedjet",
+    "location"  : "Algeria 🇩🇿",
+    "education" : "BSc Finance — Year 3",
+    "focus"     : "Financial Technology (FinTech)",
+    "goal"      : "Merging finance with AI & data science",
+    "status"    : "Open to internships & collaborations 🚀"
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Language / Tool | Level | Use Case |
+|---|---|---|
+| 🐍 **Python** | ⭐⭐⭐ Learning | Data analysis, automation, finance models |
+| 🗃️ **SQL** | ⭐⭐⭐ Learning | Financial databases, queries |
+| 📊 **R** | ⭐⭐ Learning | Statistical analysis, risk models |
+| 📈 **Excel / Power BI** | ⭐⭐⭐ Intermediate | Financial dashboards, reporting |
+
+</div>
+
+---
+
+## 🎯 FinTech Interests
+
+```
+📊  Financial Data Analysis    ──────────────────────  ██████████  Active
+🤖  AI in Finance              ──────────────────────  ████████░░  Learning
+⚠️  Risk Management            ──────────────────────  ███████░░░  Studying
+```
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 **Python for Finance** — Pandas, NumPy, Matplotlib
+- 🗃️ **SQL** — Financial data querying & modeling
+- 📉 **R** — Statistical modeling & risk analysis
+- 🤖 **AI/ML basics** applied to financial markets
+
+---
+
+## 🚀 What I'm Building Toward
+
+> *"The future of finance is written in code."*
+
+I'm a **3rd-year Finance student** passionate about the intersection of **financial markets, data science, and artificial intelligence**. My goal is to become a **FinTech professional** who can turn raw financial data into actionable insights.
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+
+📧 **Email:** your@email.com
+
+*Always open to connecting with fellow finance & tech enthusiasts!*
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youcefbt-dz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youcefbt-dz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+</div>
+
+---
+
+<div align="center">
+
+*⭐ From [youcefbt-dz](https://github.com/youcefbt-dz) — Finance meets Technology*
+
+</div>
