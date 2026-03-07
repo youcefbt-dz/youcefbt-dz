@@ -12,22 +12,18 @@
 [![GitHub](https://img.shields.io/badge/GitHub-youcefbt--dz-181717?style=for-the-badge&logo=github)](https://github.com/youcefbt-dz)
 
 </div>
-
 ---
-
-## 👨‍💼 About Me
+</div>
 
 👨‍💼 About Me
-
- Name: Youcef Boutemedjet
- Location: Algeria 🇩🇿
- Education: BSc Finance — Year 3
- Focus: Financial Technology (FinTech)
- Goal: Finance student passionate about markets, data analysis, and building financial tools with code
- Status: Open to internships & collaborations 
+👤 Name: Youcef Boutemedjet
+📍 Location: Algeria 🇩🇿
+🎓 Education: BSc Finance — Year 3
+🎯 Focus: Financial Technology (FinTech)
+💡 Goal: Finance student passionate about markets, data analysis, and building financial tools with code
+📬 Status: Open to internships & collaborations 🚀
 
 ---
-
 ##  Tech Stack
 
 <div align="center">
