@@ -84,10 +84,6 @@ I'm a **3rd-year Finance student** passionate about the intersection of **financ
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youcefbt-dz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youcefbt-dz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
 </div>
 
 ---
