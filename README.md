@@ -6,7 +6,7 @@
 
 **Finance Student → FinTech Explorer**
 
-*Bridging the gap between financial theory and data-driven technology*
+*Finance student passionate about markets, data analysis, and building financial tools with code*
 
 [![Email](https://img.shields.io/badge/📧_Contact_Me-0a0a0a?style=for-the-badge)](mailto:your@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-youcefbt--dz-181717?style=for-the-badge&logo=github)](https://github.com/youcefbt-dz)
@@ -36,10 +36,10 @@ youcef = {
 
 | Language / Tool | Level | Use Case |
 |---|---|---|
-| 🐍 **Python** | ⭐⭐⭐ Learning | Data analysis, automation, finance models |
-| 🗃️ **SQL** | ⭐⭐⭐ Learning | Financial databases, queries |
-| 📊 **R** | ⭐⭐ Learning | Statistical analysis, risk models |
-| 📈 **Excel / Power BI** | ⭐⭐⭐ Intermediate | Financial dashboards, reporting |
+|  **Python** | ⭐⭐⭐ Learning | Data analysis, automation, finance models |
+|  **SQL** | ⭐⭐ Learning | Financial databases, queries |
+|  **R** | ⭐ Learning | Statistical analysis, risk models |
+|  **Excel / Power BI** | ⭐⭐ Intermediate | Financial dashboards, reporting |
 
 </div>
 
@@ -57,14 +57,14 @@ youcef = {
 
 ## 📚 Currently Learning
 
-- 🐍 **Python for Finance** — Pandas, NumPy, Matplotlib
-- 🗃️ **SQL** — Financial data querying & modeling
-- 📉 **R** — Statistical modeling & risk analysis
-- 🤖 **AI/ML basics** applied to financial markets
+-  **Python for Finance** — Pandas, NumPy, Matplotlib
+-  **SQL** — Financial data querying & modeling
+-  **R** — Statistical modeling & risk analysis
+-  **AI/ML basics** applied to financial markets
 
 ---
 
-## 🚀 What I'm Building Toward
+##  What I'm Building Toward
 
 > *"The future of finance is written in code."*
 
