@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██╗   ██╗ ██████╗ ██╗   ██╗ ██████╗███████╗███████╗
-╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██╔════╝██╔════╝
- ╚████╔╝ ██║   ██║██║   ██║██║     █████╗  █████╗  
-  ╚██╔╝  ██║   ██║██║   ██║██║     ██╔══╝  ██╔══╝  
-   ██║   ╚██████╔╝╚██████╔╝╚██████╗███████╗██║     
-   ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝╚══════╝╚═╝     
-```
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2196f3&height=200&section=header&text=YOUCEF%20BOUTEMEDJET&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Finance%20Student%20%7C%20FinTech%20Explorer%20%7C%20Data%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn)
 
 # YOUCEF BOUTEMEDJET
 
@@ -83,7 +76,7 @@ I'm a **3rd-year Finance student** passionate about the intersection of **financ
 
 <div align="center">
 
-📧 **Email:** your@email.com
+📧 **Email:** boutemedjetyoucef1@email.com
 
 *Always open to connecting with fellow finance & tech enthusiasts!*
 
@@ -106,3 +99,5 @@ I'm a **3rd-year Finance student** passionate about the intersection of **financ
 *⭐ From [youcefbt-dz](https://github.com/youcefbt-dz) — Finance meets Technology*
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2196f3,50:1a3a5c,100:0d1117&height=120&section=footer&animation=fadeIn)
