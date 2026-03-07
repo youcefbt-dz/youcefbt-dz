@@ -17,20 +17,18 @@
 
 ## 👨‍💼 About Me
 
-```python
-youcef = {
-    "name"      : "Youcef Boutemedjet",
-    "location"  : "Algeria 🇩🇿",
-    "education" : "BSc Finance — Year 3",
-    "focus"     : "Financial Technology (FinTech)",
-    "goal"      : "Merging finance with AI & data science",
-    "status"    : "Open to internships & collaborations 🚀"
-}
-```
+👨‍💼 About Me
+
+ Name: Youcef Boutemedjet
+ Location: Algeria 🇩🇿
+ Education: BSc Finance — Year 3
+ Focus: Financial Technology (FinTech)
+ Goal: Finance student passionate about markets, data analysis, and building financial tools with code
+ Status: Open to internships & collaborations 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -45,12 +43,12 @@ youcef = {
 
 ---
 
-## 🎯 FinTech Interests
+##  FinTech Interests
 
 ```
-📊  Financial Data Analysis    ──────────────────────  ██████████  Active
-🤖  AI in Finance              ──────────────────────  ████████░░  Learning
-⚠️  Risk Management            ──────────────────────  ███████░░░  Studying
+  Financial Data Analysis    ──────────────────────  ██████████  Active
+  AI in Finance              ──────────────────────  ████████░░  Learning
+  Risk Management            ──────────────────────  ███████░░░  Studying
 ```
 
 ---
