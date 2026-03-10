@@ -32,7 +32,7 @@
 <div align="center">
 
 | Language / Tool | Level |
-|---|---|---|
+|---|---|
 |  **Python** | ⭐⭐⭐ Learning |
 |  **SQL** | ⭐⭐ Learning | 
 |  **R** | ⭐ Learning | 
