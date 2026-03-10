@@ -31,7 +31,7 @@
 
 <div align="center">
 
-| Language / Tool | Level | Use Case |
+| Language / Tool | Level |
 |---|---|---|
 |  **Python** | ⭐⭐⭐ Learning |
 |  **SQL** | ⭐⭐ Learning | 
