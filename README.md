@@ -5,7 +5,7 @@
 
 **Finance Student → FinTech Explorer**
 
-*Finance student passionate about markets, data analysis, and building financial tools with code*
+*Finance student passionate about markets, data analysis, and building financial tools *
 
 
 [![Email](https://img.shields.io/badge/📧_Contact_Me-0a0a0a?style=for-the-badge)](mailto:boutemedjetyoucef1@email.com)
@@ -15,12 +15,11 @@
 
 ---
 
-## 👨‍💼 About Me
+##  About Me
 
 | | |
 |---|---|
 |  **Name** | Youcef Boutemedjet |
-|  **Location** | Algeria |
 |  **Education** | BSc Finance — Year 3 |
 |  **Focus** | Financial Technology (FinTech) |
 |  **Goal** | Passionate about markets, data analysis, and building financial tools with code |
@@ -34,22 +33,12 @@
 
 | Language / Tool | Level | Use Case |
 |---|---|---|
-|  **Python** | ⭐⭐⭐ Learning | Data analysis, automation, finance models |
-|  **SQL** | ⭐⭐ Learning | Financial databases, queries |
-|  **R** | ⭐ Learning | Statistical analysis, risk models |
-|  **Excel / Power BI** | ⭐⭐ Intermediate | Financial dashboards, reporting |
+|  **Python** | ⭐⭐⭐ Learning |
+|  **SQL** | ⭐⭐ Learning | 
+|  **R** | ⭐ Learning | 
+|  **Excel / Power BI** | ⭐⭐ Intermediate | 
 
 </div>
-
----
-
-## 🎯 FinTech Interests
-
-```
-  Financial Data Analysis    ──────────────────────  ██████████  Active
-  AI in Finance              ──────────────────────  ████████░░  Learning
-  Risk Management            ──────────────────────  ███████░░░  Studying
-```
 
 ---
 
