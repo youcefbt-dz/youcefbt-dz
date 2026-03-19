@@ -1,86 +1,51 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2196f3&height=200&section=header&text=YOUCEF%20BOUTEMEDJET&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Finance%20Student%20%7C%20FinTech%20Explorer%20%7C%20Data%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn)
-
-
-**Finance Student → FinTech Explorer**
-
-*Finance student passionate about markets, data analysis, and building financial tools *
-
-
-[![Email](https://img.shields.io/badge/📧_Contact_Me-0a0a0a?style=for-the-badge)](mailto:boutemedjetyoucef1@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-youcefbt--dz-181717?style=for-the-badge&logo=github)](https://github.com/youcefbt-dz)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Finance+student+by+day...;Python+developer+by+night...;" alt="Typing SVG" />
 
 </div>
 
----
+# Hello, friend. 👋
 
-##  About Me
+My name is **YOUCEF BOUTEMEDJET**, I'm a **Financial Management student** from Algeria, passionate about the intersection of finance and technology. I build open-source tools that bridge the gap between financial theory and data science.
 
-| | |
-|---|---|
-|  **Name** | Youcef Boutemedjet |
-|  **Education** | BSc Finance — Year 3 |
-|  **Focus** | Financial Technology (FinTech) |
-|  **Goal** | Passionate about markets, data analysis, and building financial tools with code |
-|  **Status** | Open to internships & collaborations 🚀 |
+-  Bachelor's in Financial Management
+-  Currently building **[MarketLab](https://github.com/youcefbt-dz/python-finance-analyst)** — a quantitative research framework
+-  Learning Python, Data Analysis, and Financial Engineering
 
 ---
 
-##  Tech Stack
+## Skills
 
-<div align="center">
+**Finance**
 
-| Language / Tool | Level |
-|---|---|
-|  **Python** | ⭐⭐⭐ Learning |
-|  **SQL** | ⭐⭐ Learning | 
-|  **R** | ⭐ Learning | 
-|  **Excel / Power BI** | ⭐⭐ Intermediate | 
+![Financial Analysis](https://img.shields.io/badge/Financial%20Analysis-378ADD?style=flat-square)
+![Risk Analysis](https://img.shields.io/badge/Risk%20Analysis-378ADD?style=flat-square)
+![Technical Analysis](https://img.shields.io/badge/Technical%20Analysis-378ADD?style=flat-square)
+![CAPM](https://img.shields.io/badge/CAPM-378ADD?style=flat-square)
 
-</div>
+**Tech**
 
----
-
-##  Currently Learning
-
--  **Python for Finance** — Pandas, NumPy, Matplotlib
--  **SQL** — Financial data querying & modeling
--  **R** — Statistical modeling & risk analysis
--  **AI/ML basics** applied to financial markets
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-##  What I'm Building Toward
+## Projects
 
-> *"The future of finance is written in code."*
+### 📈 [MarketLab](https://github.com/youcefbt-dz/python-finance-analyst)
+> Quantitative research framework for stock analysis, risk modeling, and financial decision-making.
 
-I'm a **3rd-year Finance student** passionate about the intersection of **financial markets, data science, and artificial intelligence**. My goal is to become a **FinTech professional** who can turn raw financial data into actionable insights.
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-📧 **Email:** boutemedjetyoucef1@email.com
-
-*Always open to connecting with fellow finance & tech enthusiasts!*
-
-</div>
+- Technical indicators: MA, EMA, RSI, MACD, Bollinger Bands, Stochastic
+- Signals system: BUY / HOLD / SELL with trend filter & scoring
+- Automated PDF report generation
 
 ---
 
 <div align="center">
 
-</div>
-
----
-
-<div align="center">
-
-*⭐ From [youcefbt-dz](https://github.com/youcefbt-dz) — Finance meets Technology*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:0d1117&height=80&section=footer)
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2196f3,50:1a3a5c,100:0d1117&height=120&section=footer&animation=fadeIn)
