@@ -38,14 +38,8 @@ My name is **YOUCEF BOUTEMEDJET**, I'm a **Financial Management student** from A
 ### 📈 [MarketLab](https://github.com/youcefbt-dz/python-finance-analyst)
 > Quantitative research framework for stock analysis, risk modeling, and financial decision-making.
 
-- Technical indicators: MA, EMA, RSI, MACD, Bollinger Bands, Stochastic
-- Signals system: BUY / HOLD / SELL with trend filter & scoring
-- Automated PDF report generation
-
 ---
 
 <div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:0d1117&height=80&section=footer)
 
 </div>
