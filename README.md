@@ -36,6 +36,13 @@ My name is **YOUCEF BOUTEMEDJET**, I'm a **Financial Management student** from A
 
 ---
 
+## Contact Me
+
+[![Email](https://img.shields.io/badge/Email-boutemedjetyoucef1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:boutemedjetyoucef1@gmail.com)
+
+---
+
 <div align="center">
+
 
 </div>
