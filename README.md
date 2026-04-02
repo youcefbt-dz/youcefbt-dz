@@ -14,28 +14,19 @@ My name is **YOUCEF BOUTEMEDJET**, I'm a **Financial Management student** from A
 
 ##  Skills
 
-<details>
-<summary><b>Finance</b></summary>
-<br>
-
-![Financial Analysis](https://img.shields.io/badge/Financial%20Analysis-378ADD?style=for-the-badge&logo=analytics&logoColor=white)
-![Risk Analysis](https://img.shields.io/badge/Risk%20Analysis-378ADD?style=for-the-badge&logo=scilean-risk&logoColor=white)
-![Technical Analysis](https://img.shields.io/badge/Technical%20Analysis-378ADD?style=for-the-badge&logo=stock-exchange&logoColor=white)
+### **Finance**
+![Financial Analysis](https://img.shields.io/badge/Financial%20Analysis-378ADD?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Risk Analysis](https://img.shields.io/badge/Risk%20Analysis-378ADD?style=for-the-badge&logo=shield-halved&logoColor=white)
+![Technical Analysis](https://img.shields.io/badge/Technical%20Analysis-378ADD?style=for-the-badge&logo=tradingview&logoColor=white)
 ![CAPM](https://img.shields.io/badge/CAPM-378ADD?style=for-the-badge&logo=google-scholar&logoColor=white)
-</details>
 
-<details>
-<summary><b>Tech Stack</b></summary>
-<br>
-
+### **Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-</details>
-
 ---
 
 ##  Projects
@@ -54,7 +45,7 @@ My name is **YOUCEF BOUTEMEDJET**, I'm a **Financial Management student** from A
 
 ##  GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youcefbt-dz&show_icons=true&theme=material-palenight&hide_border=true&count_private=true" alt="Youcef Boutemedjet's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youcefbt-dz&layout=compact&theme=material-palenight&hide_border=true" alt="Most Used Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youcefbt-dz&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youcefbt-dz&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="300" />
+</p>
