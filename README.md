@@ -45,10 +45,6 @@ My name is **YOUCEF BOUTEMEDJET**, I'm a **Financial Management student** from A
 
 ##  GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youcefbt-dz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Youcef's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youcefbt-dz&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</div>
+[![Youcef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youcefbt-dz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/youcefbt-dz)
 
----
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youcefbt-dz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/youcefbt-dz)
