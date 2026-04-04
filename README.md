@@ -43,11 +43,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=youcefbt-dz&theme=tokyonight&hide_border=true" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=youcefbt-dz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youcefbt-dz&theme=tokyonight" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youcefbt-dz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youcefbt-dz&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youcefbt-dz&theme=tokyo-night&hide_border=true" />
 </p>
