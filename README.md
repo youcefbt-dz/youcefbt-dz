@@ -47,9 +47,6 @@
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youcefbt-dz&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youcefbt-dz&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
