@@ -1,63 +1,71 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Youcef+%F0%9F%91%8B;Financial+Management+Student;)](https://git.io/typing-svg)
+# Youcef Boutemedjet
+
+**Financial Management Student · Python Developer · Open Source Contributor**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Finance+%7C+Data+Analysis+%7C+Python;Quantitative+Research+Frameworks)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-##  Get to Know Me
-
--  Bachelor's in **Financial Management** — Algeria
--  Building **[MarketLab](https://github.com/youcefbt-dz/python-finance-analyst)** — a quantitative research framework
--  Deep-diving into **Python · Data Analysis · Financial Engineering**
+## Profile
+I am a Financial Management student from Algeria, passionate about combining **finance and technology**.  
+I build tools for **quantitative research** and contribute to open-source projects like **pandas-ta-classic**.
 
 ---
 
-##  Skills
-
-### Finance
-![Financial Analysis](https://img.shields.io/badge/Financial%20Analysis-378ADD?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Risk Analysis](https://img.shields.io/badge/Risk%20Analysis-378ADD?style=for-the-badge&logo=shieldhalved&logoColor=white)
-![Technical Analysis](https://img.shields.io/badge/Technical%20Analysis-378ADD?style=for-the-badge&logo=tradingview&logoColor=white)
-![CAPM](https://img.shields.io/badge/CAPM-378ADD?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-### Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Skills
+- Finance: Financial Analysis · Risk Analysis · Technical Analysis · CAPM  
+- Tech: Python · Pandas · NumPy · Flask · React · Git  
 
 ---
 
-##  Projects
+## Projects
+- [MarketLab](https://github.com/youcefbt-dz/python-finance-analyst)  
+  Framework for stock analysis, backtesting, sentiment analysis, and financial decision-making.  
 
-### 📈 [MarketLab](https://github.com/youcefbt-dz/python-finance-analyst)
-> Quantitative research framework for stock analysis, backtesting, sentiment analysis, and financial decision-making. Built on Python · Flask · React.
+- [pandas-ta-classic Contributions](https://github.com/twopirllc/pandas-ta)  
+  Contributions to technical indicators and tools for financial time series analysis.  
 
 ---
 
-##  GitHub Stats
+## Open Source Contributions
+- **pandas-ta-classic** → Technical indicators for financial data  
+- **MarketLab** → Quantitative finance research framework  
+- More contributions coming soon...  
 
+---
+
+## GitHub Insights
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=youcefbt-dz&theme=tokyonight&hide_border=true" /><br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youcefbt-dz&theme=tokyonight" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youcefbt-dz&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=youcefbt-dz&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youcefbt-dz&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youcefbt-dz&theme=github_dark" />
 </p>
 
 ---
 
-##  Contact Me
+## Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youcefbt-dz&theme=github-dark" />
+</p>
+
+---
+
+## Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=youcefbt-dz&theme=flat&column=6&margin-w=10&margin-h=10" />
+</p>
 
 <p align="center">
-  <a href="mailto:boutemedjetyoucef1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/youcefbt-dz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=youcefbt-dz&color=blue&style=flat-square" />
 </p>
+
+---
+
+## Contact
+- Email: [boutemedjetyoucef1@gmail.com](mailto:boutemedjetyoucef1@gmail.com)  
+- GitHub: [youcefbt-dz](https://github.com/youcefbt-dz)  
+
