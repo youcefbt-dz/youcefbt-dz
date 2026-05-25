@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1208,50:C4714A,100:D4A017&height=220&section=header&text=Youcef%20Boutemedjet&fontSize=45&fontColor=F2EDE6&animation=fadeIn&fontAlignY=40&desc=Finance%20%C3%97%20Code%20%C3%97%20Algeria&descFontSize=16&descFontColor=D4A017&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1208,50:C4714A,100:D4A017&height=220&section=header&text=Youcef%20Boutemedjet&fontSize=45&fontColor=F2EDE6&animation=fadeIn&fontAlignY=40&desc=Finance%20%C3%97%20%20%C3%97%20Algeria&descFontSize=16&descFontColor=D4A017&descAlignY=60" width="100%"/>
 
 </div>
 
@@ -120,14 +120,6 @@ const youcef = {
 </div>
 
 ---
-
-<details>
-<summary>⚙️ <strong>كود تفعيل Snake Animation</strong> — اضغط للعرض</summary>
-
-<br/>
-
-أنشئ هذا الملف في repository الخاص بك:
-**`.github/workflows/snake.yml`**
 
 ```yaml
 name: Generate Snake Animation
