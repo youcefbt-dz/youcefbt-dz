@@ -9,7 +9,7 @@
    ╚═╝    ╚═════╝  ╚═════╝  ╚═════╝╚══════╝╚═╝     
 ```
 
-**`Youcef Benticha — Quantitative Finance & Software Engineering`**
+**`Youcef Boutemedjet — Quantitative Finance`**
 
 [![EF SET C2](https://img.shields.io/badge/EF_SET-C2_English-003087?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)](https://www.efset.org)
 [![Financial Markets – Yale](https://img.shields.io/badge/Yale-Financial_Markets_%28Honors%29-00356B?style=flat-square)](https://www.coursera.org)
