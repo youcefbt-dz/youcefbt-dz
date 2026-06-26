@@ -12,7 +12,9 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/l2JhuGnntyZKP0hoY/giphy.gif" align="left" width="38%" style="margin-right: 25px; margin-bottom: 15px;" />
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 38%;">
+  <img src="https://media.giphy.com/media/l2JhuGnntyZKP0hoY/giphy.gif" width="100%" />
+</div>
 
 <img src="https://img.shields.io/badge/About-%230F766E?style=flat-square&logoColor=white" height="28" style="margin-bottom: 10px;" />
 
