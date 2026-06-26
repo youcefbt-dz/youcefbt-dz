@@ -12,11 +12,10 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/l2JhuGnntyZKP0hoY/giphy.gif" align="left" width="38%" />
+<!-- تم إضافة الهامش الأيمن والسفلي هنا لتجنب التصاق النص -->
+<img src="https://media.giphy.com/media/l2JhuGnntyZKP0hoY/giphy.gif" align="left" width="38%" style="margin-right: 25px; margin-bottom: 15px;" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/About-%230F766E?style=flat-square&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/About-%230F766E?style=flat-square&logoColor=white" height="28" style="margin-bottom: 10px;" />
 
 <p align="justify">
 I'm <strong>Youcef Boutemedjet</strong>, a 22-year-old from Batna, Algeria — a self-taught developer and Financial Management graduate who refuses to stay in one lane. My work lives at the intersection of quantitative finance, software engineering, and visual art: building trading tools by day, filling sketchbooks and logging miles by everything else.
