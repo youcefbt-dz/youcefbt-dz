@@ -12,4 +12,14 @@
 
 <br/><br/>
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0"><tr><td width="38%" valign="top"><img src="https://media.giphy.com/media/l2JhuGnntyZKP0hoY/giphy.gif" width="100%" style="display:block; border-radius:8px;" /></td><td width="62%" valign="top" style="background-color:#1c1622; padding:20px; border-radius:8px;"><img src="https://img.shields.io/badge/About-%230F766E?style=flat-square&logoColor=white" height="28" /><p align="justify" style="margin-top:15px; color:#fce7f3;">I'm <strong>Youcef Boutemedjet</strong>, a 22-year-old from Batna, Algeria — a self-taught developer and Financial Management graduate who refuses to stay in one lane. My work lives at the intersection of quantitative finance, software engineering, and visual art: building trading tools by day, filling sketchbooks and logging miles by everything else.</p><p align="justify" style="color:#fce7f3; margin-bottom:0;">Currently pursuing a Master's while simultaneously learning everything I wasn't taught in class — backend architecture, AI integration, and the strange art of making software feel alive.</p></td></tr></table>
+<blockquote>
+  <img src="https://img.shields.io/badge/About-%230F766E?style=flat-square&logoColor=white" height="26" style="margin-bottom: 8px;" />
+  
+  <p align="justify" style="font-size: 15.5px; line-height: 1.6; margin-top: 5px;">
+    I'm <strong>Youcef Boutemedjet</strong>, a 22-year-old from Batna, Algeria — a self-taught developer and Financial Management graduate who refuses to stay in one lane. My work lives at the intersection of quantitative finance, software engineering, and visual art: building trading tools by day, filling sketchbooks and logging miles by everything else.
+  </p>
+  
+  <p align="justify" style="font-size: 15.5px; line-height: 1.6; margin-bottom: 0;">
+    Currently pursuing a Master's while simultaneously learning everything I wasn't taught in class — backend architecture, AI integration, and the strange art of making software feel alive.
+  </p>
+</blockquote>
