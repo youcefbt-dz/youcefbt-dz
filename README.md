@@ -5,7 +5,8 @@
 -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/fdq7RH3dq6gRAgSyn1/giphy.gif" width="100%" style="max-height:320px; object-fit:cover;" />
+  <img src="https://media.giphy.com/media/KBWvYMj8Zyz2zoLNfu/giphy.gif
+  " width="100%" style="max-height:320px; object-fit:cover;" />
 </div>
 
 <div align="center">
@@ -29,11 +30,14 @@
   ██████████████████████████████████████████████
 -->
 
-<div align="center">
-<img src="https://media.giphy.com/media/l4KhOrp5fGhvLqT6M/giphy.gif" width="38%" align="left" />
-</div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="40%" align="center" bgcolor="#0d1117">
+<img src="https://media.giphy.com/media/l4KhOrp5fGhvLqT6M/giphy.gif" width="100%" />
+</td>
+<td width="60%" bgcolor="#0d1117" style="padding: 0 20px;">
 
-<h3>〈 About Me 〉</h3>
+### 〈 About Me 〉
 
 I'm a **22-year-old** developer and Financial Management graduate from **Batna, Algeria**.
 I build quantitative finance tools and open-source software — not as a hobby, but as a long-term direction.
@@ -48,6 +52,8 @@ Outside the screen — I run **30–44 km a week** on mountain terrain around Ba
 🌐 &nbsp;**English C2** · EF SET `81/100`
 🎯 &nbsp;**Target:** CSC Scholarship 2027 · PhD in Economics
 
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 ---
