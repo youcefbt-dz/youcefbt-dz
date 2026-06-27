@@ -16,7 +16,7 @@
 
 <!--  TECH STACK BANNERS  -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,flask,fastapi,postgres,supabase,docker,linux,git&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,flask,fastapi,django,postgres,redis,supabase,docker,linux,git,github,vscode,bash,nginx,sklearn&theme=dark&perline=9" />
 </div>
 
 <br/>
@@ -40,14 +40,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=99999&color=00BFFF&width=320&height=36&lines=%E3%80%88+About+Me+%E3%80%89&duration=1" alt="About Me" />
 </h2>
 
-I'm a developer and Financial Management graduate from&nbsp;
-![Algeria](https://img.shields.io/badge/Batna%2C_Algeria-0d1117?style=flat-square&logo=googlemaps&logoColor=00BFFF&labelColor=0d1117&color=00BFFF)
+I didn't come from a computer science background — I studied **Financial Management**, then spent years teaching myself to build things that actually mattered to me.
 
-I build ![Quantitative Finance](https://img.shields.io/badge/Quantitative_Finance-0d1117?style=flat-square&color=0a3d62&labelColor=0a3d62) tools and ![Open-Source](https://img.shields.io/badge/Open--Source-0d1117?style=flat-square&color=0a3d62&labelColor=0a3d62) software — not as a hobby, but as a **long-term direction**.
+That path led to **MarketLab**: a full quantitative research platform I built from scratch — backtesting engine, Monte Carlo simulation, regime detection, the whole thing. Not a tutorial project. A real system.
 
-My background is unusual: I studied ![Finance](https://img.shields.io/badge/Finance-0a3d62?style=flat-square), taught myself to ![Code](https://img.shields.io/badge/Code-0a3d62?style=flat-square), and ended up building a full ![Research Platform](https://img.shields.io/badge/Research_Platform-0a3d62?style=flat-square) from scratch.
+I think in systems. Whether it's markets, physics, or language — I'm drawn to the parts that aren't fully understood yet. That's what pulls me toward a **PhD in Economics** and research at the edge of what's known.
 
-I'm drawn to ![Complexity Science](https://img.shields.io/badge/Complexity_Science-0a3d62?style=flat-square), ![Cosmology](https://img.shields.io/badge/Cosmology-0a3d62?style=flat-square), and economics that hasn't been figured out yet. Long-term I'm aiming at a ![PhD](https://img.shields.io/badge/PhD-00BFFF?style=flat-square&labelColor=003f5c) and research that actually matters.
+I'm based in **Batna, Algeria** — a city most people haven't heard of, which somehow makes the work feel more necessary.
 
 </td>
 </tr>
