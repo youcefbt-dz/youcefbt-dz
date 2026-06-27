@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,20&height=90&text=Youcef%20Boutemedjet&fontSize=46&fontColor=00BFFF&fontAlign=50&fontAlignY=60&desc=&animation=false&fontStyle=italic" alt="YOUCEF BOUTEMEDJET" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,20&height=90&text=YOUCEF%20BOUTEMEDJET&fontSize=46&fontColor=00BFFF&fontAlign=50&fontAlignY=60&desc=&animation=false&fontStyle=italic" alt="YOUCEF BOUTEMEDJET" />
 </div>
 
 <br/>
