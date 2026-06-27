@@ -29,14 +29,16 @@
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td width="40%" bgcolor="#0d1117" style="padding: 0;">
+<td width="40%" bgcolor="#0d1117" style="padding:0;">
   <img src="https://media.giphy.com/media/l4KhOrp5fGhvLqT6M/giphy.gif" width="100%" style="display:block;" />
 </td>
 <td width="60%" bgcolor="#0d1117" valign="top" style="padding: 28px 32px;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=99999&color=00BFFF&width=300&height=34&lines=%E3%80%88+About+Me+%E3%80%89&duration=1" alt="About Me" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=99999&color=00BFFF&width=300&height=34&lines=%E3%80%88+About+Me+%E3%80%89&duration=1" alt="About Me" />
+</div>
 
-<br/><br/>
+<br/>
 
 I'm **Youcef Boutemedjet**, a 22-year-old student and self-taught developer from **Algeria**.
 
@@ -64,51 +66,58 @@ My long-term goal is a **PhD in Economics**. I'm drawn to complexity, systems th
 
 <br/>
 
-<table border="0" cellspacing="12" cellpadding="0" width="100%">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 
-<td width="50%" bgcolor="#0d1117" valign="top" style="padding: 20px 24px; border: 1px solid #00BFFF22; border-radius: 6px;">
+<td width="48%" bgcolor="#161b22" valign="top" align="center" style="padding: 24px 20px;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&pause=99999&color=00BFFF&width=220&height=28&lines=◈+MarketLab&duration=1" alt="MarketLab" />
+<br/>
+
+**`◈ MarketLab`**
 
 <br/>
 
 Open-source quantitative finance research platform — backtesting, Monte Carlo, ML signal engine, and AI assistant.
 
-<br/><br/>
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00BFFF)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=00BFFF)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00BFFF)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logoColor=00BFFF)
 
-<br/><br/>
+<br/>
 
-[![Live](https://img.shields.io/badge/◉_Live-app.marketlab.io-00BFFF?style=flat-square&logoColor=white)](https://app.marketlab.io)
-&nbsp;
-[![GitHub](https://img.shields.io/github/stars/youcefbt-dz/MarketLab?style=flat-square&logo=github&color=161b22&logoColor=00BFFF&label=Stars)](https://github.com/youcefbt-dz/MarketLab)
+[![Live](https://img.shields.io/badge/◉%20Live-app.marketlab.io-00BFFF?style=flat-square)](https://app.marketlab.io)
+[![Stars](https://img.shields.io/github/stars/youcefbt-dz/MarketLab?style=flat-square&logo=github&color=0d1117&logoColor=00BFFF&label=Stars)](https://github.com/youcefbt-dz/MarketLab)
+
+<br/>
 
 </td>
 
-<td width="2%" bgcolor="#0d1117"></td>
+<td width="4%" bgcolor="#0d1117"></td>
 
-<td width="50%" bgcolor="#0d1117" valign="top" style="padding: 20px 24px; border: 1px solid #00BFFF22; border-radius: 6px;">
+<td width="48%" bgcolor="#161b22" valign="top" align="center" style="padding: 24px 20px;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&pause=99999&color=00BFFF&width=260&height=28&lines=◈+Manhwa+Tracker&duration=1" alt="Manhwa Tracker" />
+<br/>
+
+**`◈ Manhwa Tracker`**
 
 <br/>
 
 Personal reading tracker for Korean manhwa — track progress, status, and ratings across series with a clean visual interface.
 
-<br/><br/>
+<br/>
 
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=00BFFF)
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=00BFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00BFFF)
 
-<br/><br/>
+<br/>
 
-[![GitHub](https://img.shields.io/badge/◉_GitHub-MANHWA--TRACKER-00BFFF?style=flat-square&logo=github&logoColor=white)](https://github.com/youcefbt-dz/MANHWA-TRACKER)
+[![GitHub](https://img.shields.io/badge/◉%20GitHub-MANHWA--TRACKER-00BFFF?style=flat-square&logo=github&logoColor=white)](https://github.com/youcefbt-dz/MANHWA-TRACKER)
+
+<br/>
 
 </td>
 
