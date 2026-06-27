@@ -16,7 +16,7 @@
 
 <!--  TECH STACK BANNERS  -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,flask,fastapi,django,postgres,redis,supabase,docker,linux,git,github,vscode,bash,nginx,sklearn&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,flask,fastapi,django,postgres,redis,supabase,docker,linux,git,github,vscode,bash,nginx,sklearn&theme=dark&perline=18" />
 </div>
 
 <br/>
@@ -40,13 +40,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=99999&color=00BFFF&width=320&height=36&lines=%E3%80%88+About+Me+%E3%80%89&duration=1" alt="About Me" />
 </h2>
 
-I didn't come from a computer science background — I studied **Financial Management**, then spent years teaching myself to build things that actually mattered to me.
+Hy I'm **Youcef Boutemedjet**, a 22-year-old student and self-taught developer from **Algeria**. I have a bachl
 
-That path led to **MarketLab**: a full quantitative research platform I built from scratch — backtesting engine, Monte Carlo simulation, regime detection, the whole thing. Not a tutorial project. A real system.
+I hold a Bachelor's degree in **Financial Management** from Université Batna 1. Outside of that, I'm into programming, physics, and anything that tries to explain how things actually work.
 
-I think in systems. Whether it's markets, physics, or language — I'm drawn to the parts that aren't fully understood yet. That's what pulls me toward a **PhD in Economics** and research at the edge of what's known.
+Outside the screen, I'm a long-distance runner. I also draw, and I care a lot about how things look, not just how they work.
 
-I'm based in **Batna, Algeria** — a city most people haven't heard of, which somehow makes the work feel more necessary.
+My long-term goal is a **PhD in Economics**. I'm drawn to complexity, systems thinking, and the questions that don't have clean answers yet.
 
 </td>
 </tr>
