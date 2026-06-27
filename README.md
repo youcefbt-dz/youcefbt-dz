@@ -27,18 +27,16 @@
   ██████████████████████████████████████████████
 -->
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=99999&color=00BFFF&width=300&height=34&lines=%E3%80%88+About+Me+%E3%80%89&duration=1" alt="About Me" />
+
+<br/>
+
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td width="40%" bgcolor="#0d1117" style="padding:0;">
   <img src="https://media.giphy.com/media/l4KhOrp5fGhvLqT6M/giphy.gif" width="100%" style="display:block;" />
 </td>
 <td width="60%" bgcolor="#0d1117" valign="top" style="padding: 28px 32px;">
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=99999&color=00BFFF&width=300&height=34&lines=%E3%80%88+About+Me+%E3%80%89&duration=1" alt="About Me" />
-</div>
-
-<br/>
 
 I'm **Youcef Boutemedjet**, a 22-year-old student and self-taught developer from **Algeria**.
 
@@ -60,9 +58,7 @@ My long-term goal is a **PhD in Economics**. I'm drawn to complexity, systems th
   ██████████████████████████████████████████████
 -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=99999&color=00BFFF&width=340&height=34&lines=%E3%80%88+My+Projects+%E3%80%89&duration=1" alt="My Projects" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=99999&color=00BFFF&width=340&height=34&lines=%E3%80%88+My+Projects+%E3%80%89&duration=1" alt="My Projects" />
 
 <br/>
 
