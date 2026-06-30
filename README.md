@@ -34,7 +34,7 @@
 </td>
 <td width="60%" bgcolor="#0d1117" valign="top" style="padding: 28px 32px;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=99999&color=00BFFF&width=300&height=34&lines=%E3%80%88+About+Me+%E3%80%89&duration=1" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Syncopate&size=22&weight=700&pause=99999&color=00BFFF&width=300&height=40&lines=ABOUT+ME&duration=1" alt="About Me" />
 
 <br/>
 
@@ -54,11 +54,49 @@ My long-term goal is a **PhD in Economics**. I'm drawn to complexity, systems th
 
 <!--
   ██████████████████████████████████████████████
-  SECTION 03 — PROJECTS
+  SECTION 03 — CONTRIBUTIONS
   ██████████████████████████████████████████████
 -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=99999&color=00BFFF&width=340&height=34&lines=%E3%80%88+My+Projects+%E3%80%89&duration=1" alt="My Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Syncopate&size=22&weight=700&pause=99999&color=00BFFF&width=560&height=40&lines=OPEN+SOURCE+CONTRIBUTIONS&duration=1" alt="Open Source Contributions" />
+
+<br/>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td bgcolor="#161b22" valign="top" style="padding: 24px 28px;">
+
+**`◈ Chandelier Exit (CE) Indicator`** — [pandas-ta-classic](https://github.com/youcefbt-dz/pandas-ta-classic)
+
+<br/>
+
+![Merged](https://img.shields.io/badge/PR-Merged-0d1117?style=flat-square&logo=github&logoColor=00BFFF)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00BFFF)
+![Indicators](https://img.shields.io/badge/Library-200%2B%20Indicators-0d1117?style=flat-square&logoColor=00BFFF)
+
+Added a volatility indicator (trailing stop from ATR + rolling high/low) to **pandas-ta-classic**, a Pandas extension with 200+ technical indicators. Merged upstream after 5 commits.
+
+<br/>
+
+[![View Pull Request](https://img.shields.io/badge/◉%20View%20Pull%20Request-%23100-00BFFF?style=flat-square)](https://github.com/xgboosted/pandas-ta-classic/pull/100)
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!--
+  ██████████████████████████████████████████████
+  SECTION 04 — PROJECTS
+  ██████████████████████████████████████████████
+-->
+
+<img src="https://readme-typing-svg.demolab.com?font=Syncopate&size=22&weight=700&pause=99999&color=00BFFF&width=340&height=40&lines=MY+PROJECTS&duration=1" alt="My Projects" />
 
 <br/>
 
@@ -74,13 +112,6 @@ My long-term goal is a **PhD in Economics**. I'm drawn to complexity, systems th
 <br/>
 
 Open-source quantitative finance research platform — backtesting, Monte Carlo, ML signal engine, and AI assistant.
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00BFFF)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=00BFFF)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00BFFF)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logoColor=00BFFF)
 
 <br/>
 
@@ -105,12 +136,6 @@ Personal reading tracker for Korean manhwa — track progress, status, and ratin
 
 <br/>
 
-![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=00BFFF)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=00BFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00BFFF)
-
-<br/>
-
 [![GitHub](https://img.shields.io/badge/◉%20GitHub-MANHWA--TRACKER-00BFFF?style=flat-square&logo=github&logoColor=white)](https://github.com/youcefbt-dz/MANHWA-TRACKER)
 
 <br/>
@@ -126,15 +151,15 @@ Personal reading tracker for Korean manhwa — track progress, status, and ratin
 
 <!--
   ██████████████████████████████████████████████
-  SECTION 04 — CONTACT
+  SECTION 05 — CONTACT
   ██████████████████████████████████████████████
 -->
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=99999&color=00BFFF&width=320&height=34&lines=%E3%80%88+Let%27s+Talk+%E3%80%89&duration=1" alt="Let's Talk" />
+<img src="https://readme-typing-svg.demolab.com?font=Syncopate&size=22&weight=700&pause=99999&color=00BFFF&width=300&height=40&lines=LET%27S+TALK&duration=1" alt="Let's Talk" />
 
 <br/>
+
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00BFFF)](https://www.instagram.com/boutemedjet_youcef/)
 [![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=00BFFF)](https://www.facebook.com/ami.rab.754703/)
