@@ -36,7 +36,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=99999&color=00BFFF&width=300&height=34&lines=%E3%80%88+About+Me+%E3%80%89&duration=1" alt="About Me" />
 
-<br/><br/>
+<br/>
 
 I'm **Youcef Boutemedjet**, a 22-year-old student and self-taught developer from **Algeria**.
 
@@ -123,3 +123,25 @@ Personal reading tracker for Korean manhwa — track progress, status, and ratin
 <br/>
 
 ---
+
+<!--
+  ██████████████████████████████████████████████
+  SECTION 04 — CONTACT
+  ██████████████████████████████████████████████
+-->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=99999&color=00BFFF&width=320&height=34&lines=%E3%80%88+Let%27s+Talk+%E3%80%89&duration=1" alt="Let's Talk" />
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00BFFF)](https://www.instagram.com/boutemedjet_youcef/)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=00BFFF)](https://www.facebook.com/ami.rab.754703/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00BFFF)](mailto:boutemedjetyoucef1@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=100&section=footer" width="100%" />
+
+</div>
